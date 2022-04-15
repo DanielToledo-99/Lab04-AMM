@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VImopRk+gQoSVzwzOTRvfmCfJSD9I/2TgRJVgf7zbZvNqI8PScfSx69S6ZT3Fy9k5+IRi0xE0+RdgoYPl7bT9w==",
+  "success": true,
+  "projectFilePath": "/Users/danieltoledo/Projects/Lab04/Lab04.iOS/Lab04.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/danieltoledo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/danieltoledo/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/danieltoledo/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

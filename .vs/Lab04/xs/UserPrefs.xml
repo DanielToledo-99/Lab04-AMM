@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{731CB671-B3B6-4945-80A4-98B401BBBC11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab04/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lab04/MainPage.xaml" Line="11" Column="26" />
+      <File FileName="Lab04/Page1.xaml" Line="14" Column="50" />
+      <File FileName="Lab04/Page1.xaml.cs" Line="8" Column="5" />
+      <File FileName="Lab04/Page2.xaml" Line="13" Column="1" />
+      <File FileName="Lab04/Page2.xaml.cs" Line="16" Column="41" />
+      <File FileName="Lab04/TabbedPage1.xaml" Line="7" Column="31" />
+      <File FileName="Lab04/TabbedPage1.xaml.cs" Line="25" Column="1" />
+      <File FileName="Lab04/MainPage.xaml.cs" Line="39" Column="1" />
+      <File FileName="Lab04/App.xaml" Line="1" Column="1" />
+      <File FileName="Lab04/App.xaml.cs" Line="15" Column="1" />
+      <File FileName="Lab04/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab04" expanded="True">
+            <Node name="Lab04" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Page1.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+              <Node name="TabbedPage1.xaml" expanded="True" />
+            </Node>
+            <Node name="Lab04.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab04.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab04.Android PreferredExecutionTarget="Android.Pixel_5_API_30" />
+</Properties>
